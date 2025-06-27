@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=tekycommerce"><img src="https://img.shields.io/twitter/follow/tekycommerce?style=social"></a>
-    <a href="https://www.youtube.com/channel/UCtekycommerce"><img src="https://img.shields.io/youtube/channel/subscribers/UCtekycommerce?style=social"></a>
+    <a href="https://www.youtube.com/channel/UCY9MOqL6n3k3_Zo49gfPmeA"><img src="https://img.shields.io/youtube/channel/subscribers/UCY9MOqL6n3k3_Zo49gfPmeA?style=social"></a>
 </p>
 
 <p align="center">
