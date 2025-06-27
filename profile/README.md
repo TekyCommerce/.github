@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-    <a href="https://packagist.org/packages/tekycommerce/core"><img src="https://poser.pugx.org/bagisto/bagisto/d/total.svg" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/tekycommerce/core"><img src="https://poser.pugx.org/bagisto/bagisto/v/stable.svg" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/tekycommerce/core"><img src="https://poser.pugx.org/bagisto/bagisto/license.svg" alt="License"></a>
+    <a href="https://packagist.org/packages/tekycommerce/core"><img src="https://poser.pugx.org/tekycommerce/tekycommerce/d/total.svg" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/tekycommerce/core"><img src="https://poser.pugx.org/tekycommerce/tekycommerce/v/stable.svg" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/tekycommerce/core"><img src="https://poser.pugx.org/tekycommerce/tekycommerce/license.svg" alt="License"></a>
 </p>
 
 <p align="center">
